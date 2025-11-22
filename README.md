@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Kento MOMIYAMA!
 
-<!--
-**momiyamakento/momiyamakento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Future University Hakodate / Information Architecture  
+💡 Software Dev / UIUX / Product Design  
+🚀 LOGROKU（AI×日記×すごろく） / EMOKA（学内ハッカソン優勝）  
+🎯 Flutter / Firebase / React Native / Python / PostgreSQL  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=flutter,firebase,react,native,python,postgresql,git,github,unity,figma,blender)
+
+---
+
+## 🚀 Projects
+
+### 🎲 LOGROKU – AI × 日記 × すごろく  
+未来ケータイプロジェクト2025で開発したアプリ。  
+公開できないコードがあるため、こちらは **紹介用リポジトリ** です。  
+👉 https://github.com/あなた/logroku-portfolio
+
+### 👶 EMOKA – 感情×保育士業務改善  
+学内ハッカソン優勝プロジェクト。  
+👉 https://github.com/あなた/emoka-portfolio
+
+---
+
+## 🏆 Achievements
+- 学内ハッカソン優勝（EMOKA）
+- LOGROKU サブリーダー / UIUX / Firebase設計
+- インターン（アイシンソフトウェア / 先行技術 × AI）
+- デジタルガレージ 一次面接通過（エンジニア / ビジネス職）
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=あなたのID&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=あなたのID&layout=compact&theme=radical)
+
+---
