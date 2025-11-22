@@ -1,53 +1,82 @@
 <p align="center">
-  <b>Software Developer / UIUX / Product Design / AI × App Dev</b><br>
-  Future University Hakodate · LOGROKU & EMOKA Project · Flutter / Firebase / React Native
+  <b>Software Developer / UI/UX / Product Design / AI × App Dev</b><br>
+  Future University Hakodate · LOGROKU & EMOKA Project · Flutter / Firebase
 </p>
 
 ---
 
 ## 🌟 About Me
-- 🎓 FUTURE UNIVERSITY HAKODATE / 情報アーキテクチャ学科   
-- 🧭 企画・UI/UX・Firebase 設計・PM・ 
-- 🧑‍💻 Python /Flutter / Firebase / java / PostgreSQLReact Native /  
-- 🚀 LOGROKU サブリーダー（ミライケータイプロジェクト2025） 
+
+- 🎓 FUTURE UNIVERSITY HAKODATE / 情報アーキテクチャ学科  
+- 🧭 企画・UI/UX・Firebase 設計・PM・スプリント運営  
+- 🧑‍💻 使用してきた主な技術：Python / C / Java / HTML / CSS / Flutter / Dart / Firebase / PostgreSQL  
+- 🚀 LOGROKU サブリーダー（ミライケータイプロジェクト2025）  
 - 🏆 EMOKA（保育士業務改善アプリ）学内ハッカソン **優勝**  
-- 🎯 TelephoneTool アルバイトで開発した業務効率化アプリ
+- 🎯 TelephoneTool：アルバイトで開発した業務効率化アプリ  
+
 ---
 
 ## 🎨 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,flutter,dart,firebase,git,github,figma" /><br>
-  <img src="https://skillicons.dev/icons?i=miro" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css" /><br>
+  <!-- Mobile / Backend -->
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postgresql" /><br>
+  <!-- Tools / Design -->
+  <img src="https://skillicons.dev/icons?i=git,github,figma,miro" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎲 LOGROKU – AI × 日記 × すごろく  
-> 一年間のチーム開発。日記から“すごろく”を自動生成し、成長を可視化するアプリ。  
-> 🔒 本番版には Firebase 情報を含むため Private  
-> 🌐 公開可能な範囲でまとめた **紹介用リポジトリ**
+<div align="center">
 
-👉 https://github.com/momiyamakento/LOGUROKU_introduction
+<table>
+  <tr>
+    <td width="50%">
 
----
+💠 **LOGROKU – AI × 日記 × すごろく**  
+日記から“すごろく”を自動生成し、成長を可視化するアプリ。  
+本番版には Firebase 情報を含むため Private。  
+このリポジトリでは、公開可能な範囲で概要・担当範囲をまとめています。  
 
-### ☎️ TelephoneTool  
-> Flutter × Firebase の連絡先管理ツール。シンプル UI と軽量データ構造を重視。  
-👉 https://github.com/momiyamakento/TelephoneTool
+🔗 [LOGROKU 紹介リポジトリ](https://github.com/momiyamakento/LOGUROKU_introduction)
 
----
+  </td>
+  <td width="50%">
 
-### 👶 EMOKA – 感情 × 保育士業務改善（ハッカソン優勝）  
-> 保育士の「感情」を可視化し、園内共有を楽にするプロジェクト。  
-> UX調査・UIデザイン・企画の中心を担当。  
-👉 https://github.com/momiyamakento/emoka_introduction?tab=readme-ov-file
+💠 **TelephoneTool – 業務効率化コンタクトツール**  
+アルバイト先での課題から着想した、連絡先管理 & 連絡効率化アプリ。  
+Flutter × Firebase で開発し、シンプルなUIと軽量なデータ構造を意識しました。  
 
----
+🔗 [TelephoneTool リポジトリ](https://github.com/momiyamakento/TelephoneTool)
 
-### 💬 TrendFlash – Hakodate Instagram Trends  
-> Hakodate の Instagram トレンドを収集し、人気ワードを可視化。  
-> Google Maps API × AI × 可視化 UI の組み合わせ。  
-👉 https://github.com/p2hacks2024/pre-05?tab=readme-ov-file
+  </td>
+  </tr>
 
+  <tr>
+    <td width="50%">
+
+💠 **EMOKA – 感情 × 保育士業務改善**  
+保育士の記録業務を効率化しつつ、保護者と感情を共有できる“共育”サービス。  
+UX調査・UIデザイン・体験設計・スライド作成などを担当。  
+学内ハッカソンで優勝したプロジェクトです。  
+
+🔗 [EMOKA 紹介リポジトリ](https://github.com/momiyamakento/emoka_introduction)
+
+  </td>
+  <td width="50%">
+
+💠 **TrendFlash – Hakodate Instagram Trends**  
+函館エリアの Instagram トレンドを収集し、人気ワードを可視化する web アプリ。  
+Google Maps API × 可視化 UI で、グルメ・観光トレンドを直感的に把握できます。  
+
+🔗 [TrendFlash リポジトリ](https://github.com/p2hacks2024/pre-05)
+
+  </td>
+  </tr>
+</table>
+
+</div>
