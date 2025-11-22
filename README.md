@@ -49,7 +49,7 @@
 ### 💬 TrendFlash – Hakodate Instagram Trends  
 > Hakodate の Instagram トレンドを収集し、人気ワードを可視化。  
 > Google Maps API × AI × 可視化 UI の組み合わせ。  
-👉 https://github.com/momiyamakento/trendflash-introduction
+👉 https://github.com/p2hacks2024/pre-05?tab=readme-ov-file
 
 ---
 
