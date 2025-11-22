@@ -1,9 +1,9 @@
-<!-- ヘッドバナー（Canvaで横長画像作るとさらにおしゃれになります） -->
+<!-- ヘッドバナー -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x250/1E90FF/FFFFFF?text=Kento+Momiyama+-+Software+Developer" width="85%" />
+  <img src="https://via.placeholder.com/1200x260/0d47a1/ffffff?text=Kento+Momiyama+-+Software+Developer" width="85%" />
 </p>
 
-<h1 align="center">💙 Kento MOMIYAMA 💙</h1>
+<h1 align="center"> 籾山健人 </h1>
 <p align="center">
   <b>Software Developer / UIUX / Product Design / AI × App Dev</b><br>
   Future University Hakodate · LOGROKU & EMOKA Project · Flutter / Firebase / React Native
