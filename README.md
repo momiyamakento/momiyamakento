@@ -6,13 +6,12 @@
 ---
 
 ## 🌟 About Me
-- 🎓 FUTURE UNIVERSITY HAKODATE / 情報アーキテクチャ学科  
-- 🚀 LOGROKU サブリーダー（未来ケータイプロジェクト2025）  
-- 🧭 企画・UI/UX・Firebase 設計・PM・スプリント運営  
-- 🧑‍💻 Flutter / Firebase / React Native / Python / PostgreSQL  
+- 🎓 FUTURE UNIVERSITY HAKODATE / 情報アーキテクチャ学科   
+- 🧭 企画・UI/UX・Firebase 設計・PM・ 
+- 🧑‍💻 Python /Flutter / Firebase / java / PostgreSQLReact Native /  
+- 🚀 LOGROKU サブリーダー（ミライケータイプロジェクト2025） 
 - 🏆 EMOKA（保育士業務改善アプリ）学内ハッカソン **優勝**  
-- 🎯 モビリティ・AI・プロダクトデザインが強み  
-
+- 🎯 TelephoneTool アルバイトで開発した業務効率化アプリ
 ---
 
 ## 🎨 Tech Stack
@@ -30,7 +29,7 @@
 > 🔒 本番版には Firebase 情報を含むため Private  
 > 🌐 公開可能な範囲でまとめた **紹介用リポジトリ**
 
-👉 https://github.com/momiyamakento/logroku-introduction
+👉 https://github.com/momiyamakento/LOGUROKU_introduction
 
 ---
 
