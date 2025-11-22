@@ -42,7 +42,7 @@
 ### 👶 EMOKA – 感情 × 保育士業務改善（ハッカソン優勝）  
 > 保育士の「感情」を可視化し、園内共有を楽にするプロジェクト。  
 > UX調査・UIデザイン・企画の中心を担当。  
-👉 https://github.com/momiyamakento/emoka-introduction
+👉 https://github.com/momiyamakento/emoka_introduction?tab=readme-ov-file
 
 ---
 
