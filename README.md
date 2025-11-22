@@ -72,38 +72,7 @@
 
 👉 https://github.com/p2hacks2024/pre-05
 
----
 
-## 🏆 GitHub Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=momiyamakento&theme=onestar&no-frame=true&column=6"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=momiyamakento&show_icons=true&theme=blueberry&hide_border=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momiyamakento&layout=compact&theme=blueberry&hide_border=true" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=momiyamakento&theme=blueberry&hide_border=true" />
-</p>
-
----
-
-## 📫 Contact
-<p align="center">
-  <a href="mailto:your.email@example.com">✉ Email</a> |
-  <a href="https://twitter.com/">🐦 Twitter</a> |
-  <a href="https://your-portfolio-url.com">🌐 Portfolio</a>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A3D91&height=150&section=footer"/>
