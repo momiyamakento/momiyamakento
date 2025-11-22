@@ -51,24 +51,3 @@
 > Google Maps API × AI × 可視化 UI の組み合わせ。  
 👉 https://github.com/p2hacks2024/pre-05?tab=readme-ov-file
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=momiyamakento&show_icons=true&theme=blueberries&hide_border=true)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momiyamakento&layout=compact&theme=blueberries&hide_border=true)
-
-</div>
-
----
-
-## 📫 Contact
-<p align="center">
-  <a href="mailto:your.email@example.com">Email</a> |
-  <a href="https://twitter.com/">Twitter</a> |
-  <a href="https://your-portfolio-url.com">Portfolio</a>
-</p>
-
----
