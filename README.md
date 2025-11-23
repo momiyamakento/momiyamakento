@@ -8,30 +8,16 @@
 </p>
 
 ---
-- 🎓  / 情報アーキテクチャ学科  
+- 🎓 公立はこだて未来大学/システム情報科学部
 - 🚀 LOGROKU サブリーダー（ミライケータイプロジェクト2025）  
 - 👶 EMOKA（保育士業務改善）学内ハッカソン **優勝**  
-- ☎ TelephoneTool（職場効率化アプリ）をFlutter + Firebaseで開発  
-- 🧭 企画 / UIUX / 体験設計 / Firebase設計 / PM  
-- 🧑‍💻 **Python / C / Java / HTML / CSS / Flutter / Dart / Firebase / Firestore / PostgreSQL**  
-- 🎨 **Figma / Miro / Git / GitHub**
-
-
-
+- ☎　TelephoneTool（職場効率化アプリ）をアルバイトで開発  
+- 🧭 TrendFlash 学内ハッカソンで作成
 ---
 
 ## 🎨 Tech Stack
 <p align="center">
-
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css" /><br>
-
-<!-- Mobile / Backend -->
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postgresql" /><br>
-
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,figma,miro" />
-
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postgresql,python,java,c,html,css,git,github,figma,miro" />
 </p>
 
 ---
