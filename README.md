@@ -1,12 +1,13 @@
-<!-- アニメーションヘッダー（青） -->
+<!-- ヘッダー -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A3D91&height=220&section=header&text=Kento%20MOMIYAMA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<!-- タイピングエフェクト -->
+<!-- タイピング -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0A3D91&center=true&vCenter=true&width=500&lines=Software+Developer;UI%2FUX+Designer;Product+Design+%C3%97+AI+%C3%97+App+Development;Future+University+Hakodate+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0A3D91&center=true&vCenter=true&width=600&lines=Software+Developer;Product+Design+%C3%97+AI;UI%2FUX+%26+PM;Future+University+Hakodate" />
 </p>
+
 
 ---
 
