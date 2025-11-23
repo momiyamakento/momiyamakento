@@ -1,18 +1,14 @@
 <!-- ヘッダー -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A3D91&height=220&section=header&text=Kento%20MOMIYAMA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A3D91&height=220&section=header&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=0A3D91&center=true&vCenter=true&width=500&lines=About+Me" />
 </p>
 
-
-
 ---
-
-## 💫 About Me
-- 🎓 Future University Hakodate / 情報アーキテクチャ学科  
+- 🎓  / 情報アーキテクチャ学科  
 - 🚀 LOGROKU サブリーダー（ミライケータイプロジェクト2025）  
 - 👶 EMOKA（保育士業務改善）学内ハッカソン **優勝**  
 - ☎ TelephoneTool（職場効率化アプリ）をFlutter + Firebaseで開発  
